@@ -1,0 +1,24 @@
+{
+  "name": "backbone.data",
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "~9.0.3",
+    "backbone": "~1.1.2",
+    "underscore": "~1.8.2"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-cli": "~0.1.13",
+    "grunt-browserify": "~3.5.0",
+    "grunt-express": "~1.4.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "load-grunt-config": "~0.16.0",
+    "express": "~4.12.0",
+    "jquery": "~2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:in-the-keyhole/backbone.data.git"
+  }
+}
